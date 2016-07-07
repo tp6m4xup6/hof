@@ -10,7 +10,6 @@
 
   <modules>
     <module>hof-core</module>
-    <module>hof-assembly</module>
   </modules>
 
   <properties>
